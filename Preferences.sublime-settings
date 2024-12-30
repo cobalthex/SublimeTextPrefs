@@ -1,0 +1,32 @@
+{
+	"auto_complete_cycle": true,
+	"caret_extra_width": 0,
+	"caret_style": "phase",
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
+	"draw_minimap_border": true,
+	"enable_hexadecimal_encoding": false,
+	"font_face": "CosmicSansNeueMono",
+	"font_size": 12,
+	"font_options":
+	[
+		"directwrite"
+	],
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"mIRC Scripting Language (Highlighting and Autocomplete)",
+		"Rust",
+		"Vintage",
+	],
+	"rulers":
+	[
+	],
+	"shift_tab_unindent": true,
+	"show_line_endings": true,
+	"show_encoding": true,
+	"theme": "Argonaut.sublime-theme",
+	"theme_font_options": "directwrite",
+	"trim_trailing_white_space_on_save": true,
+	"index_files": true,
+	"word_wrap": "true",
+}
